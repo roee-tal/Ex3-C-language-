@@ -290,7 +290,7 @@ int main(){
     printf("\n");
     printf("Anagram Sequences: ");
     anagram(word_arr,txt_arr);
-    printf("\n");
+    // printf("\n");
 
     free(txt_arr);
     free(word_arr);
