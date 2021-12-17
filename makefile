@@ -1,7 +1,5 @@
 FLAGS = -Wall -g
 
-
-
 all: stringProg
 
 stringProg: main.o
